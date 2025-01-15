@@ -2,7 +2,7 @@
 
 Este repositorio contiene ejercicios y experimentos sobre clasificación multiclase, aplicados al dataset "20 Newsgroups". Se presentan las métricas utilizadas en este tipo de problemas y una comparación de varios clasificadores entrenados y optimizados para lograr el mejor rendimiento posible.
 
----
+<br>
 
 ## Ejercicio 1: Interpretación de métricas en clasificación multiclase
 
@@ -18,7 +18,7 @@ El enfoque empleado incluye:
 
 Consulta la documentación en el archivo para más detalles.
 
----
+<br>
 
 ## Ejercicio 2: Clasificación del dataset "20 Newsgroups"
 
@@ -40,7 +40,7 @@ Se realizan ajustes de hiperparámetros y optimización de cada modelo con el ob
   - Entrenamiento: ~11,000 documentos.
   - Prueba: ~7,500 documentos.
 
----
+<br>
 
 ## Resultados
 
@@ -64,13 +64,13 @@ Se realizan ajustes de hiperparámetros y optimización de cada modelo con el ob
     - *talk.religion.misc*: F1-Score = 0.650.
     - *talk.politics.misc*: F1-Score = 0.667.
 
----
+<br>
 
 ## Visualizaciones
 
 El repositorio incluye scripts para generar gráficos de **Precision**, **Recall**, **F1-Score** y **Support** para cada clase. Los gráficos proporcionan una visión clara del rendimiento del modelo por categoría y a nivel global.
 
----
+<br>
 
 ## Requisitos
 
@@ -79,8 +79,6 @@ El repositorio incluye scripts para generar gráficos de **Precision**, **Recall
   - `scikit-learn`
   - `pandas`
   - `matplotlib`
-
----
 
 --- 
 
