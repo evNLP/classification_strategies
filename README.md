@@ -70,6 +70,8 @@ Se realizan ajustes de hiperparámetros y optimización de cada modelo con el ob
 
 El repositorio incluye scripts para generar gráficos de **Precision**, **Recall**, **F1-Score** y **Support** para cada clase. Los gráficos proporcionan una visión clara del rendimiento del modelo por categoría y a nivel global.
 
+![image](https://github.com/user-attachments/assets/ed538f33-c3ce-4098-bac5-576d15b6b0e2)
+
 <br>
 
 ## Requisitos
