@@ -79,7 +79,3 @@ El repositorio incluye scripts para generar gráficos de **Precision**, **Recall
   - `scikit-learn`
   - `pandas`
   - `matplotlib`
-
---- 
-
-¡Espero que sea útil! Si necesitas ajustes, no dudes en pedírmelo. 😊
